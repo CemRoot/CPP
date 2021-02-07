@@ -1,0 +1,2 @@
+C:\Users\eminc\source\repos\assert\Debug\assert.exe
+C:\Users\eminc\source\repos\assert\Debug\assert.pdb

@@ -1,0 +1,2 @@
+C:\Users\eminc\source\repos\ROT13Cod\Debug\ROT13Cod.exe
+C:\Users\eminc\source\repos\ROT13Cod\Debug\ROT13Cod.pdb
