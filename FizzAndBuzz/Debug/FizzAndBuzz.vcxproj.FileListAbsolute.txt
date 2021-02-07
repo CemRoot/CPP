@@ -1,0 +1,2 @@
+C:\Users\eminc\source\repos\FizzAndBuzz\Debug\FizzAndBuzz.exe
+C:\Users\eminc\source\repos\FizzAndBuzz\Debug\FizzAndBuzz.pdb

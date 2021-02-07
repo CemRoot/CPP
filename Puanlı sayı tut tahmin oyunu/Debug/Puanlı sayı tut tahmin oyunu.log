@@ -1,0 +1,3 @@
+﻿  Puanlı sayı tut tahmin oyunu.cpp
+C:\Users\eminc\source\repos\Puanlı sayı tut tahmin oyunu\Puanlı sayı tut tahmin oyunu.cpp(55,15): warning C4244: 'bağımsız değişken': 'time_t' - 'unsigned int' dönüşümü; veri kaybı olabilir
+C:\Users\eminc\source\repos\Puanlı sayı tut tahmin oyunu\Puanlı sayı tut tahmin oyunu.cpp(60): error C4700: başlatılmamış yerel değişken 'puan' kullanıldı

@@ -1,0 +1,2 @@
+C:\Users\eminc\source\repos\calculation\Debug\calculation.exe
+C:\Users\eminc\source\repos\calculation\Debug\calculation.pdb

@@ -1,0 +1,3 @@
+﻿  TAS-KAGIT-MAKAS.cpp
+C:\Users\eminc\source\repos\TAS-KAGIT-MAKAS\TAS-KAGIT-MAKAS.cpp(12,12): warning C4244: 'bağımsız değişken': 'time_t' - 'unsigned int' dönüşümü; veri kaybı olabilir
+  TAS-KAGIT-MAKAS.vcxproj -> C:\Users\eminc\source\repos\TAS-KAGIT-MAKAS\Debug\TAS-KAGIT-MAKAS.exe

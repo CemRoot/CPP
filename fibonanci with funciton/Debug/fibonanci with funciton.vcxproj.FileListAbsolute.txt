@@ -1,0 +1,2 @@
+C:\Users\eminc\source\repos\fibonanci with funciton\Debug\fibonanci with funciton.exe
+C:\Users\eminc\source\repos\fibonanci with funciton\Debug\fibonanci with funciton.pdb
