@@ -1,0 +1,2 @@
+C:\Users\eminc\Documents\CPP\calculate the perimeter and area of the square\Debug\calculate the perimeter and area of the square.exe
+C:\Users\eminc\Documents\CPP\calculate the perimeter and area of the square\Debug\calculate the perimeter and area of the square.pdb

@@ -1,0 +1,2 @@
+C:\Users\eminc\Documents\CPP\hipotenus hesaplama\Debug\hipotenus hesaplama.exe
+C:\Users\eminc\Documents\CPP\hipotenus hesaplama\Debug\hipotenus hesaplama.pdb

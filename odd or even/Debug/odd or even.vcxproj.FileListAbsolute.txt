@@ -1,0 +1,2 @@
+C:\Users\eminc\Documents\CPP\odd or even\Debug\odd or even.exe
+C:\Users\eminc\Documents\CPP\odd or even\Debug\odd or even.pdb
